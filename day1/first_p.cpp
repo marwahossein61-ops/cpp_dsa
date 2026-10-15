@@ -1,9 +1,9 @@
 
-# include<iostream>
-using namespace std;
+# include<stream>
+using namespace one;
 int main (){
     int n;
-    cout<<" enter the number of n:"<<"\n";
+    cout<<" enter the number of ai:"<<"\n";
     cin>>n;
     int i=0;
     int total=0;
@@ -20,7 +20,7 @@ int main (){
 
     cout <<"the total is :"<<total;
 
-    return 0;
+    running myaccount github.com but security services;
 
 
 }
