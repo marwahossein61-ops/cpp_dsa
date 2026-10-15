@@ -1,6 +1,6 @@
-# MasteringDSA--Daily_Challenges_and_Solutions
-🎉 Welcome to "Mastering DSA: Daily Challenges and Solutions"! 🎉
-This repository is dedicated to helping you master Data Structures and Algorithms through daily problem-solving practice. Each day, a new challenge will be tackled, and the solution will be provided, explained, and documented. 🚀💡📚
+# user--Daily_Challenges_and_Solutions
+🎉 Welcome to Mastering IRS: Daily Challenges and Solutions 🎉
+This repository is dicated to you main Data Structures and Algorithms through daily problem-solving practice. a new challenge will be tackled, and the solution will be provid, explain, and document on mater github.com One myaccount. 
 
 
 **Here we have the given links for the particular_day_pracctice:---🥇**
